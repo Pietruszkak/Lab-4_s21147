@@ -1,0 +1,6 @@
+joblib
+fastapi
+fastapi[standard]
+pandas
+scikit-learn
+pydantic

@@ -83,7 +83,7 @@ docker run -p 80:80 pred_app
 #### 3. Wysyłanie danych za pomocą Postman:
 
 1.  **Ustaw typ żądania** na **POST**.
-2.  Ustaw **URL** na `http://localhost:8000/submit-data`
+2.  Ustaw **URL** na `http://0.0.0.0:80/submit-data`
 3.  W sekcji **Body** wybierz opcję **raw** i **JSON**.
 4.  Wklej dane JSON do treści żądania.
 5.  **Wyślij żądanie**.

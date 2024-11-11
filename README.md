@@ -1,5 +1,3 @@
-# Lab-4_s21147
-
 ## Spis treści
 - [Klonowanie repozytorium](#klonowanie-repozytorium)
 - [Uruchomienie aplikacji lokalnie](#uruchomienie-aplikacji-lokalnie)
@@ -8,7 +6,7 @@
 
 ## Klonowanie repozytorium
 #### 1. Zainstaluj git:
-[https://git-scm.com/downloads](https://git-scm.com/downloads).
+<a href="https://git-scm.com/downloads" target="_blank">https://git-scm.com/downloads</a>
 #### 2. Sklonuj repozytorium:
 Otwórz terminal (lub Git Bash na Windowsie) i wprowadź poniższą komendę:
 ```console
@@ -21,7 +19,7 @@ cd Lab-4_s21147
 ```
 ## Uruchomienie aplikacji lokalnie
 #### 1. Zainstaluj Pythona
-https://www.python.org/downloads/
+<a href="https://www.python.org/downloads/" target="_blank">https://www.python.org/downloads/</a>
 Aby sprawdzić wersję pythona, otwórz terminal (lub Git Bash na Windowsie) i wprowadź:
 
 ```console
@@ -47,7 +45,7 @@ fastapi run pred_app.py
 ```
 ## Uruchomienie aplikacji z wykorzystaniem dockera
 #### 1. Zainstaluj Dockera
-[Docker Desktop: The #1 Containerization Tool for Developers | Docker](https://www.docker.com/products/docker-desktop/)
+<a href="https://www.docker.com/products/docker-desktop/" target="_blank">Docker Desktop: The #1 Containerization Tool for Developers | Docker</a>
 #### 2. Wejdź do katalogu repozytorium:
 Otwórz terminal (lub Git Bash na Windowsie) i wprowadź:
 ```console
@@ -81,7 +79,7 @@ docker run -p 80:80 pred_app
 #### 1. Uruchom aplikację za pomocą dockera lub lokalnie
 [Opcje](#spis-treści)
 #### 2. Zainstaluj Postmana
-[Download Postman | Get Started for Free](https://www.postman.com/downloads/)
+<a href="https://www.postman.com/downloads/" target="_blank">Download Postman | Get Started for Free</a>
 #### 3. Wysyłanie danych za pomocą Postman:
 
 1.  **Ustaw typ żądania** na **POST**.

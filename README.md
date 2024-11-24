@@ -73,7 +73,7 @@ docker pull 99051400/pred_app
 ```
 #### 3. Uruchom obraz
 ```console
-docker run -p 80:80 pred_app
+docker run -p 80:80 99051400/pred_app
 ```
 ## Użycie aplikacji
 #### 1. Uruchom aplikację za pomocą dockera lub lokalnie
